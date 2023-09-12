@@ -1,8 +1,10 @@
-Hi I'm  David Afdal Kaizar Mutahadi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-===================================================================================================================================
+<h1 align="center">Hi I'm  David Afdal Kaizar Mutahadi  </h1>
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" width="400"/>
+
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [davidafdal7@gmail.com](mailto:davidafdal7@gmail.com)
+
 
 ### Skills
 

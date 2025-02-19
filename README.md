@@ -1,10 +1,7 @@
-<h1 align="center">Hi I'm  David Afdal Kaizar Mutahadi  </h1>
-
-
+# Hi I'm  David Afdal Kaizar Mutahadi
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [davidafdal7@gmail.com](mailto:davidafdal7@gmail.com)
-
 
 # Languages and Tools
 

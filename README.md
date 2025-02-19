@@ -17,5 +17,5 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://id.linkedin.com/in/david-afdal-kaizar-mutahadi-86ba26250)
 
 # My GitHub Stats
-| <img src="https://github-readme-stats.vercel.app/api?username=DavidAfdal&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="DavidAfdal's GitHub stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAfdal&stroke=ffffff&background=171717&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> |
-| -------------- | -------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=DavidAfdal&show_icons=true&count_private=true&theme=radical&show_icons=true&hide_border=true" alt="DavidAfdal's GitHub stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAfdal&theme=radical&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAfdal&layout=compact&theme=radical&hide_border=true" /> |
+| -------------- | -------------- | -------------- | 

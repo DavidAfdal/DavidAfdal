@@ -1,4 +1,4 @@
-# Hi I'm  David Afdal Kaizar Mutahadi
+# Hi I'm  David Afdal
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [davidafdal7@gmail.com](mailto:davidafdal7@gmail.com)

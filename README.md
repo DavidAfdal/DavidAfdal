@@ -1,7 +1,10 @@
 # Hey, I'm David Afdal! 👋
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [davidafdal7@gmail.com](mailto:davidafdal7@gmail.com)
+- 👨‍💻 Self-taught developer passionate about full-stack web development
+
+- 🌱 Currently learning microservices, streaming protocols, and advanced PostgreSQL
+
+- ⚡ Fun fact: Big fan of manga & manhwa, and love exploring tech innovations
 
 # Languages and Tools
 

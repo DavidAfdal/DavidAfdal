@@ -8,7 +8,7 @@
 
 # Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,nodejs,express,laravel,next,react,tailwind,postgres,mysql,mongodb,redis,docker,postman,vscode,githubactions&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,nodejs,python,express,laravel,next,react,tailwind,postgres,mysql,mongodb,redis,docker,postman,vscode,githubactions&perline=5)](https://skillicons.dev)
 
 # Connect with me
 
